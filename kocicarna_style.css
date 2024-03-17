@@ -1,0 +1,87 @@
+h1{
+    font-size: 30px;
+}
+h2{
+    font-size: 18px;
+}
+h3{
+    font-size: 16px;
+}
+article {
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+img[title=logo]{
+    width: 10%;
+}
+img[title=gif]{
+    width: 15%;
+    outline-style: solid;
+    outline-color: rgb(82, 68, 49);
+}
+img[title=mapa]{
+    width: 2%;
+}
+img[title=fotky]{
+    width: 2%;
+}
+header[title=zahlavi]{
+    background-color:rgba(248, 209, 161, 0.863);
+    font-size: 55px;
+    text-align: center;
+    padding: 15px;
+    margin: 0%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 2px;
+}
+header{
+    font-style: italic;
+    background-color:rgba(248, 209, 161, 0.863);
+    margin-left: 20%;
+    margin-right: 20%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 2px;
+}
+a{
+    color: black;
+}
+article[title=clanek1]{
+    padding-bottom: 25px;
+    outline-color: rgb(82, 68, 49);
+    outline-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: blanchedalmond;
+    font: icon;
+}
+article[title=clanek2]{
+    padding-bottom: 25px;
+    outline-color: rgb(82, 68, 49);
+    outline-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: blanchedalmond;
+    font: icon;
+}
+article[title=clanek3]{
+    padding-bottom: 25px;
+    outline-color: rgb(82, 68, 49);
+    outline-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: blanchedalmond;
+    font: icon;
+}
+article[title=clanek4]{
+    padding-bottom: 25px;
+    outline-color: rgb(82, 68, 49);
+    outline-style: solid;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: blanchedalmond;
+    font: icon;
+}

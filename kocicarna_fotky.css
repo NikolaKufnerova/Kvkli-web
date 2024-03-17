@@ -1,0 +1,23 @@
+img{
+    width: 50%;
+    height: 650px;
+}
+article[title=zpet]{
+    text-align: center;
+    font-size: 30px;
+}
+a{
+    color: black;
+}
+article[title=zpet]{
+    font-style: italic;
+    background-color:rgba(248, 209, 161, 0.863);
+    margin-left: 20%;
+    margin-right: 20%;
+    outline-color: black;
+    outline-style: solid;
+    outline-width: 2px;
+}
+body{
+    background-color: beige;
+}
